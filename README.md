@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on building a cool portfolio<br>👯 I’m looking to collaborate on AI, website and mobile application<br>🤝 I’m looking for help with launching my business<br>🌱 I’m currently learning backend development<br>💬 Ask me about AI<br>⚡ Fun fact: I love chess and padel
+# 💫 About Me
+
+👋 Hi there! I’m Leonardo — an MSc student in **Human-Centered Artificial Intelligence** at DTU, passionate about building intelligent systems that connect people, data, and design.  
+
+🤖 I’m currently working on projects involving **LLMs, MLOps, Deep Learning, and embeddings**, integrating **OpenAI APIs** and **multi-agent workflows** to create useful, human-centered AI solutions.  
+
+💡 I love exploring how automation and AI can simplify real-world workflows — from data pipelines to user-facing products.  
+
+🌍 I’m always excited to collaborate on **AI, automation, web, or mobile projects**, and to learn from innovative engineers, designers, and entrepreneurs.  
+
+🎯 I’m on my way to becoming an **AI Engineer** who can bridge the gap between technology, creativity, and business impact.  
+
+♟️ Fun facts: I’m a competitive **padel player** (Danish Padel Federation) and a passionate **chess** enthusiast always chasing a higher ELO.
 
 
 ## 🌐 Socials:
